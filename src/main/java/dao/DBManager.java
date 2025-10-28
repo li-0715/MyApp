@@ -5,9 +5,9 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DBManager {
-    private static final String CN_STRING = "jdbc:oracle:thin:@//10.40.112.11:1521/dbsys"; // ex1201参照
-    private static final String USER = "jz240104"; // ex1201参照
-    private static final String PASS = "pass"; // ex1201参照
+    private static final String CN_STRING = "****private****"; // ex1201参照
+    private static final String USER = "****"private****; // ex1201参照
+    private static final String PASS = "****private****"; // ex1201参照
 
     private static DBManager self; // 自分を管理する変数
 
